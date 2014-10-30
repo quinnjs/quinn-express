@@ -22,7 +22,14 @@
   },
   "homepage": "https://github.com/quinnjs/quinn-express",
   "devDependencies": {
+    "assertive": "^1.4.0",
+    "concat-stream": "^1.4.6",
     "express": "^4.10.1",
+    "lodash": "^2.4.1",
     "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.10",
+    "quinn-respond": "^3.1.2"
   }
 }
