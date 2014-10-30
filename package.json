@@ -1,0 +1,28 @@
+{
+  "name": "quinn-express",
+  "version": "1.0.0",
+  "description": "Make quinn handlers play nice with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quinnjs/quinn-express.git"
+  },
+  "keywords": [
+    "quinn",
+    "express",
+    "http"
+  ],
+  "author": "Jan Krems <jan.krems@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quinnjs/quinn-express/issues"
+  },
+  "homepage": "https://github.com/quinnjs/quinn-express",
+  "devDependencies": {
+    "express": "^4.10.1",
+    "mocha": "^2.0.1"
+  }
+}
